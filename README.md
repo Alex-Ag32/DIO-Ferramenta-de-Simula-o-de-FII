@@ -5,6 +5,10 @@ Repositório destinado aos projetos de portifólio do curso de Excel com IA do D
 
 Esse projeto tem como objetivo por em prática os conhecimentos passados no primeiro módulo do curso e a entrega de uma ferramenta para a visulização simplificada em formato de planila (.xlsx) de simulações de investimentos com o controle do usuário.
 
+### Objetivo
+
+Fornecer ao usuário uma ferramenta para simulação de FII, há uma seleção de fundos na base de dados com dados pré-estabelecidos e atualizados no dia 2 de junho de 2025, a maioria desses dados são formatados como "Ações", tornando-se assim uma ferramenta atualizada, pois há atualização da grande parte dos dados é feita pelo Excel. Contudo, mesmo com a entrega de dados previamente estabelecidos o usuário tem a opção de fazer suas próprias simulações com os dados dos FII que desejar.
+
 ### Tecnologia Utilizada
 Microsoft Excel 365
 
