@@ -19,7 +19,8 @@ Microsoft Excel 365
 
 ### Download
 
+[Ferramenta de Simulação de Fundos Imobiliários.xlsx](https://github.com/user-attachments/files/20552706/Ferramenta.de.Simulacao.de.Fundos.Imobiliarios.xlsx)
 
-[Ferramenta de Simulação de Fundos Imobiliários.xlsx](https://github.com/user-attachments/files/20551822/Ferramenta.de.Simulacao.de.Fundos.Imobiliarios.xlsx)
 
 OBS: Para o melhor uso da planilha habilite os conteúdos externos que apareceram na parte superior de sua tela na primeira inicialização.
+
